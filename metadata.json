@@ -1,0 +1,5 @@
+{
+  "name": "AI Real Estate Market Reporter",
+  "description": "An interactive AI-powered dashboard that generates weekly real estate market reports for any city, with data visualization, trend analysis, and social media-ready summaries.",
+  "requestFramePermissions": []
+}
